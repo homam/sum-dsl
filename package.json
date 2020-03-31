@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "npx ts-node test/test.ts"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
